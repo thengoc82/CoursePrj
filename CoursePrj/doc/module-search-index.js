@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"CoursePrj"}];updateSearchResults();
